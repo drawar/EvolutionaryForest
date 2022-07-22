@@ -10,3 +10,4 @@ scikit_learn
 dill
 lightgbm
 smt
+pathos
