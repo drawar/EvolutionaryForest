@@ -2,7 +2,7 @@ import operator
 import warnings
 from functools import partial
 import pathos, multiprocess
-from pathos.multiprocessing import Pool
+from pathos.multiprocessing import ProcessingPool as Pool
 from typing import List
 
 import dill
